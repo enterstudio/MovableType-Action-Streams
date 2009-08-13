@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mtplugins/!svn/ver/1526/trunk/ActionStreams/plugins/ActionStreams/lib/ActionStreams/UserAgent
+END
+Adapter.pm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mtplugins/!svn/ver/1526/trunk/ActionStreams/plugins/ActionStreams/lib/ActionStreams/UserAgent/Adapter.pm
+END
+Cache.pm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mtplugins/!svn/ver/1348/trunk/ActionStreams/plugins/ActionStreams/lib/ActionStreams/UserAgent/Cache.pm
+END

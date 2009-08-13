@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mtplugins/!svn/ver/1488/trunk/ActionStreams/plugins/ActionStreams/tmpl
+END
+other_profiles.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mtplugins/!svn/ver/1478/trunk/ActionStreams/plugins/ActionStreams/tmpl/other_profiles.tmpl
+END
+dialog_edit_profile.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mtplugins/!svn/ver/1478/trunk/ActionStreams/plugins/ActionStreams/tmpl/dialog_edit_profile.tmpl
+END
+dialog_add_profile.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mtplugins/!svn/ver/1488/trunk/ActionStreams/plugins/ActionStreams/tmpl/dialog_add_profile.tmpl
+END
+list_profileevent.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mtplugins/!svn/ver/1478/trunk/ActionStreams/plugins/ActionStreams/tmpl/list_profileevent.tmpl
+END
+widget_recent.mtml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mtplugins/!svn/ver/1478/trunk/ActionStreams/plugins/ActionStreams/tmpl/widget_recent.mtml
+END
+blog_config_template.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mtplugins/!svn/ver/1478/trunk/ActionStreams/plugins/ActionStreams/tmpl/blog_config_template.tmpl
+END

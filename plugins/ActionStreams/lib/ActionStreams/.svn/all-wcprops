@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mtplugins/!svn/ver/1567/trunk/ActionStreams/plugins/ActionStreams/lib/ActionStreams
+END
+Fix.pm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mtplugins/!svn/ver/1565/trunk/ActionStreams/plugins/ActionStreams/lib/ActionStreams/Fix.pm
+END
+Upgrade.pm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mtplugins/!svn/ver/1349/trunk/ActionStreams/plugins/ActionStreams/lib/ActionStreams/Upgrade.pm
+END
+Worker.pm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mtplugins/!svn/ver/1434/trunk/ActionStreams/plugins/ActionStreams/lib/ActionStreams/Worker.pm
+END
+L10N.pm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mtplugins/!svn/ver/1541/trunk/ActionStreams/plugins/ActionStreams/lib/ActionStreams/L10N.pm
+END
+Plugin.pm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mtplugins/!svn/ver/1540/trunk/ActionStreams/plugins/ActionStreams/lib/ActionStreams/Plugin.pm
+END
+Tags.pm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mtplugins/!svn/ver/1516/trunk/ActionStreams/plugins/ActionStreams/lib/ActionStreams/Tags.pm
+END
+Scraper.pm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mtplugins/!svn/ver/1436/trunk/ActionStreams/plugins/ActionStreams/lib/ActionStreams/Scraper.pm
+END
+Event.pm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mtplugins/!svn/ver/1561/trunk/ActionStreams/plugins/ActionStreams/lib/ActionStreams/Event.pm
+END
+Init.pm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mtplugins/!svn/ver/471/trunk/ActionStreams/plugins/ActionStreams/lib/ActionStreams/Init.pm
+END

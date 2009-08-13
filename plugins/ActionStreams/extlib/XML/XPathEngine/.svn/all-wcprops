@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mtplugins/!svn/ver/1234/trunk/ActionStreams/plugins/ActionStreams/extlib/XML/XPathEngine
+END
+Function.pm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mtplugins/!svn/ver/1234/trunk/ActionStreams/plugins/ActionStreams/extlib/XML/XPathEngine/Function.pm
+END
+LocationPath.pm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mtplugins/!svn/ver/1234/trunk/ActionStreams/plugins/ActionStreams/extlib/XML/XPathEngine/LocationPath.pm
+END
+Variable.pm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mtplugins/!svn/ver/1234/trunk/ActionStreams/plugins/ActionStreams/extlib/XML/XPathEngine/Variable.pm
+END
+Number.pm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mtplugins/!svn/ver/1234/trunk/ActionStreams/plugins/ActionStreams/extlib/XML/XPathEngine/Number.pm
+END
+Step.pm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mtplugins/!svn/ver/1234/trunk/ActionStreams/plugins/ActionStreams/extlib/XML/XPathEngine/Step.pm
+END
+Literal.pm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mtplugins/!svn/ver/1234/trunk/ActionStreams/plugins/ActionStreams/extlib/XML/XPathEngine/Literal.pm
+END
+Expr.pm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mtplugins/!svn/ver/1234/trunk/ActionStreams/plugins/ActionStreams/extlib/XML/XPathEngine/Expr.pm
+END
+Boolean.pm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mtplugins/!svn/ver/1234/trunk/ActionStreams/plugins/ActionStreams/extlib/XML/XPathEngine/Boolean.pm
+END
+NodeSet.pm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mtplugins/!svn/ver/1234/trunk/ActionStreams/plugins/ActionStreams/extlib/XML/XPathEngine/NodeSet.pm
+END
+Root.pm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mtplugins/!svn/ver/1234/trunk/ActionStreams/plugins/ActionStreams/extlib/XML/XPathEngine/Root.pm
+END
